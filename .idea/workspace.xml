@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9ec0eb5-fc6a-4382-b524-fdb3bea57133" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dEllmzCiEFXvUMCJyXwqVAG0Ll" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Monotone_SS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="upload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Monotone_SS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Monotone_SS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ec0eb5-fc6a-4382-b524-fdb3bea57133" name="Default Changelist" comment="" />
+      <created>1591998286796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591998286796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="203" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592000476445">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="360" y="194" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1591999916968" />
+    <state x="360" y="203" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1037@0.23.1792.1037" timestamp="1592000476445" />
+    <state x="650" y="304" key="EnvironmentVariablesDialog" timestamp="1591999967586">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="650" y="304" key="EnvironmentVariablesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1591999365020" />
+    <state x="650" y="304" key="EnvironmentVariablesDialog/0.23.1792.1037@0.23.1792.1037" timestamp="1591999967586" />
+    <state x="683" y="302" key="FileChooserDialogImpl" timestamp="1592000263467">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="683" y="302" key="FileChooserDialogImpl/0.23.1792.1037@0.23.1792.1037" timestamp="1592000263467" />
+    <state width="1379" height="270" key="GridCell.Tab.0.bottom" timestamp="1592023602235">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1591998935345" />
+    <state width="1379" height="270" key="GridCell.Tab.0.bottom/0.23.1792.1037@0.23.1792.1037" timestamp="1592020370347" />
+    <state width="1379" height="270" key="GridCell.Tab.0.bottom/0.23.1792.1044@0.23.1792.1044" timestamp="1592023602235" />
+    <state width="1379" height="270" key="GridCell.Tab.0.center" timestamp="1592023602234">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1591998935344" />
+    <state width="1379" height="270" key="GridCell.Tab.0.center/0.23.1792.1037@0.23.1792.1037" timestamp="1592020370346" />
+    <state width="1379" height="270" key="GridCell.Tab.0.center/0.23.1792.1044@0.23.1792.1044" timestamp="1592023602234" />
+    <state width="1379" height="270" key="GridCell.Tab.0.left" timestamp="1592023602233">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1591998935343" />
+    <state width="1379" height="270" key="GridCell.Tab.0.left/0.23.1792.1037@0.23.1792.1037" timestamp="1592020370342" />
+    <state width="1379" height="270" key="GridCell.Tab.0.left/0.23.1792.1044@0.23.1792.1044" timestamp="1592023602233" />
+    <state width="1379" height="270" key="GridCell.Tab.0.right" timestamp="1592023602235">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1591998935344" />
+    <state width="1379" height="270" key="GridCell.Tab.0.right/0.23.1792.1037@0.23.1792.1037" timestamp="1592020370347" />
+    <state width="1379" height="270" key="GridCell.Tab.0.right/0.23.1792.1044@0.23.1792.1044" timestamp="1592023602235" />
+    <state x="397" y="180" key="SettingsEditor" timestamp="1592000877250">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="397" y="180" key="SettingsEditor/0.23.1792.1037@0.23.1792.1037" timestamp="1592000877250" />
+    <state x="511" y="401" key="com.intellij.ide.util.TipDialog" timestamp="1592189475467">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="511" y="401" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1592189475467" />
+    <state x="511" y="396" key="com.intellij.ide.util.TipDialog/0.23.1792.1041@0.23.1792.1041" timestamp="1592063039022" />
+    <state x="789" y="293" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1591999991428">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="789" y="293" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.23.1792.1037@0.23.1792.1037" timestamp="1591999991428" />
+  </component>
+</project>
