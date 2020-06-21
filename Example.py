@@ -1,6 +1,5 @@
 import numpy as np;
 import sys;
-sys.path.insert(0, '/Users/echo/Desktop/')
 import Monotone_SS as myfun;
 import matplotlib.pyplot as plt;
 import random
