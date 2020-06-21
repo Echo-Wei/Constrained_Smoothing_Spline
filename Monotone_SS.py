@@ -1,6 +1,5 @@
 import numpy as np;
 import sys
-sys.path.append('/Users/echo/Desktop')
 import NCS as NCScode;
 
 class NullWriter(object):
